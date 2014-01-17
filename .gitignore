@@ -1,0 +1,5 @@
+# Ignore bundler config
+/.bundle
+
+# Ignore .DS_store file
+.DS_Store
